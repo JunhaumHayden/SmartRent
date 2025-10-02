@@ -420,3 +420,59 @@ UFSC/multimidia/**/*.bmp
 UFSC/multimidia/**/*.cuif
 UFSC/multimidia/**/*.pdf
 
+# =====================================
+# Python
+# =====================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+*.manifest
+*.spec
+
+# =====================================
+# Ambientes virtuais
+# =====================================
+.env
+.venv
+env/
+venv/
+ENV/
+pip-wheel-metadata/
+pip-log.txt
+
+
+# =====================================
+# Logs / Debug
+# =====================================
+*.log
+*.pot
+*.mo
+*.coverage
+coverage.xml
+htmlcov/
+
+# =====================================
+# Dados e modelos
+# =====================================
+*.pkl
+*.h5
+*.joblib
+*.csv
+*.tsv
+*.sqlite3
+*.db
+
+# =====================================
+# SO / editor
+# =====================================
+.DS_Store
+Thumbs.db
+
