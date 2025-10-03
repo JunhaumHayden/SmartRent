@@ -136,4 +136,4 @@ MIT — ou seja: use, quebre, refaça, mas me cite se for ficar famoso com isso 
 
 🧙‍♂️ Autores
 <table> <tr> <td align="center"> <a href="https://github.com/JunhaumHayden"> <img src="https://avatars.githubusercontent.com/u/183040803?v=4" width="115"/><br> <sub><b>Lucas Marisco</b></sub> </a> </td> <td align="center"> <a href="https://github.com/JunhaumHayden"> <img src="https://avatars.githubusercontent.com/u/79289647?v=4" width="115"/><br> <sub><b>Carlos Hayden</b></sub> </a> </td> </tr> </table>
-<p align="center"> <em>🧠💻 Built with data, code & caffeine.<br> May the <strong>rent</strong> be ever in your favor.</em> ☕✨ </p> ```
+<p align="center"> <em>🧠💻 Built with data, code & caffeine.<br> May the <strong>rent</strong> be ever in your favor.</em> ☕✨ </p>
