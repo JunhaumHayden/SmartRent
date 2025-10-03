@@ -45,21 +45,6 @@ Imagine um corretor de imóveis que:
 > E todo mundo economiza tempo, dinheiro e neurônios. 🧠✨
 
 ---
----
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-green?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-1.10%2B-blue?logo=pydantic)](https://pydantic.dev/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1%2B-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
-[![Uvicorn](https://img.shields.io/badge/Uvicorn-0.22%2B-purple?logo=python)](https://www.uvicorn.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?logo=heart)]()
-[![Magic](https://img.shields.io/badge/Magic-Math%20%26%20Code-purple)](https://www.youtube.com/watch?v=3o1_1zGQ9K4)
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/JunhaumHayden/SmartRent?style=social)](https://github.com/JunhaumHayden/SmartRent)
-[![GitHub forks](https://img.shields.io/github/forks/JunhaumHayden/SmartRent?style=social)](https://github.com/JunhaumHayden/SmartRent/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/JunhaumHayden/SmartRent?style=social)](https://github.com/JunhaumHayden/SmartRent/watchers)
-
----
 ## ✨ Features
 
 - 📈 **Predição inteligente** do preço de aluguel com base nas características do imóvel  
